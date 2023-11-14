@@ -1,0 +1,2 @@
+100
+['Shougo/dein.vim', 'Shougo/neocomplete.vim', 'Shougo/neosnippet', 'Shougo/neosnippet-snippets', 'Shougo/vimproc.vim', 'github/copilot.vim.git', 'kannokanno/previm', 'plasticboy/vim-markdown', 'scrooloose/syntastic', 'tpope/vim-fugitive']
